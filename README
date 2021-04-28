@@ -1,0 +1,6 @@
+
+
+
+What would be your best solution for displaying test results?
+Use jenkins job with junit plugin.
+Use worker with tests code. Start docker with application. Start tests.
