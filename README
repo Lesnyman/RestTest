@@ -1,5 +1,5 @@
-
-
+How to start?
+mvn -Dtest=api.petStore.suite.AllTests test
 
 What would be your best solution for displaying test results?
 Use jenkins job with junit plugin.
